@@ -4,3 +4,4 @@ COMMIT TEST
 456
 789
 Add line
+new branch line
